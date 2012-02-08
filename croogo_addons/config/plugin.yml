@@ -1,0 +1,11 @@
+name: CroogoAddons
+description: A plugin for Croogo CMS for browsering Croogo plugins and one-click installing them.
+
+author: Buddy Toups
+authorEmail: me@mydesignbuddy.com
+authorUrl: http://www.mydesignbuddy.com
+
+dependencies:
+  plugins:
+    - acl
+    - extensions

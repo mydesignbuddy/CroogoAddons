@@ -1,0 +1,11 @@
+name: CroogoAddons Server
+description: A plugin for hosting a CroogoAddons marketplace/repo.
+
+author: Buddy Toups
+authorEmail: me@mydesignbuddy.com
+authorUrl: http://www.mydesignbuddy.com
+
+dependencies:
+  plugins:
+    - acl
+    - extensions
